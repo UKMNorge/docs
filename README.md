@@ -1,1 +1,1 @@
-Se [WIKI for dokumentasjon base](https://github.com/UKMNorge/docs/wiki)
+Se [WIKI for UKM Dokumentasjon Base (UDB)](https://github.com/UKMNorge/docs/wiki)
